@@ -17,4 +17,3 @@ pip install -r requirements.txt
 ```
 
 
-python deepcnn_mnist.py
